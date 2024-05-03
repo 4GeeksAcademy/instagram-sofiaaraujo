@@ -14,12 +14,29 @@ body {
     flex-direction: column;
     text-align: center;
     align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: space-between;
+    
+    
 }
 img {
     width: 100%;
     height: auto;
+    
 }
 
 h1 {
     text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+.post div{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+footer {
+    padding: 25px;
+}
+
+
